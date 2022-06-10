@@ -1,0 +1,6 @@
+#Como calcar la raíz cuadrada de un número.
+# use la función 'math' que ya viene preinstalada en Python.
+
+import math
+print(math.sqrt(int(input())))
+
