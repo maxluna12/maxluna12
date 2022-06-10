@@ -1,4 +1,4 @@
-#Como calcar la raíz cuadrada de un número.
+#Como calcular la raíz cuadrada de un número.
 # use la función 'math' que ya viene preinstalada en Python.
 
 import math
